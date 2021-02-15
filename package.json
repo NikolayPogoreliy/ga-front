@@ -1,4 +1,4 @@
-{
+git{
   "name": "ga-front",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1",
+    "vue-routers": "^1.0.9"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
